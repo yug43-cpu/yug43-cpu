@@ -9,7 +9,7 @@ systems and software. I'm currently building my knowledge through
 practical work, experiments, projects and by keeping a record of what I
 learn on GitHub.
 
-## What I'm doing now 🧑‍💻
+## What I'm doing now 🖥️
 
 I'm working on building a strong foundation in computer science while
 exploring different areas of software and technology.
