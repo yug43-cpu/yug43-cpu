@@ -1,138 +1,63 @@
-# Hi, I'm Yug 👋
+Hi, I'm Yug 👋
 
-I work across software, technology and business, with a background in
-the electrical field and around two years of professional experience in
-the electrical profession.
+I'm exploring software, computer science and technology through coding, practical projects and continuous learning.
 
-Over time, my focus has expanded toward computer science, programming,
-systems and software. I'm currently building my knowledge through
-practical work, experiments, projects and by keeping a record of what I
-learn on GitHub.
+🧑‍💻 Programming
 
-## What I'm doing now 🖥️
+C • C++ • Python • Java • R • Ruby
 
-I'm working on building a strong foundation in computer science while
-exploring different areas of software and technology.
+🧠 Computer Science
 
-### Programming 💻
+Data Structures & Algorithms • Databases
 
--   C
--   C++
--   Python
--   Java
--   R
--   Ruby
+🌐 Web
 
-### Computer science 🧠
+HTML • CSS • JavaScript
 
--   Data Structures and Algorithms
--   Databases
+⚙️ Systems & Networking
 
-### Web 🌐
+Linux • Computer Networking
 
--   HTML
--   CSS
--   JavaScript
+I enjoy understanding how computers and software work underneath, experimenting with new technologies and turning what I learn into practical projects.
 
-### Systems and networking ⚙️
+📚 How I Learn
 
--   Computer Networking
--   Linux
+Learn → Build → Break → Understand → Improve
 
-I already have a basic understanding of networking and have worked with
-Linux as well. Linux is one of the areas I particularly enjoy exploring,
-while Windows is currently my main environment for everyday coding.
+I use GitHub to document my learning, notes, experiments, implementations and projects.
 
-## How I learn 📚
+🗂️ Learning Repositories
 
-I use GitHub to keep a record of what I'm learning and building.
+c • cpp • python • java • dsa • database • html-css-js • r • ruby
 
-Some repositories are simple notes and exercises. Others are
-experiments, implementations or projects that grow as I learn more.
+🛠️ Interests
 
-I prefer learning by actually doing things --- writing code, testing
-ideas, breaking things, fixing them and understanding why they work.
+Automation • Bots • APIs • Software • Networking • Linux • System Tools
 
-> Learn → Build → Break → Understand → Improve
+💼 Business
 
-## Learning repositories 🗂️
-
-``` text
-github/
-│
-├── c
-├── cpp
-├── python
-├── java
-├── dsa
-├── database
-├── html-css-js
-├── r
-└── ruby
-```
-
-## Projects and technology 🛠️
-
-I'm interested in automation, bots, APIs, software, networking, system
-tools and other areas where technology can solve practical problems.
-
-I enjoy exploring how things work underneath and turning that
-understanding into something useful.
-
-## Business 💼
-
-### MatchX Studio
-
+MatchX Studio
 Founder & Owner
 
-MatchX Studio was started as a partnership in 2018 and has grown into a
-technology and creative-oriented business.
+Technology and creative-oriented work including coding, bots, automation, APIs, editing and technology projects. Started as a partnership in 2018.
 
-The work includes coding, bots, automation, APIs, bot buying and
-selling, editing and other technology-related services and projects.
-
-It has been one of the places where I've been able to combine technical
-work with practical, real-world use cases.
-
-### XNPL Export
-
+XNPL Export
 Founder & Owner
 
-XNPL Export is an import and export business focused on fruits,
-vegetables and other agricultural products.
+Import and export business focused on fruits, vegetables and agricultural products.
 
-The business is currently not available online and operates separately
-from my technology work.
+⚡ Background
 
-Working on both technology and business has given me a different
-perspective on building things --- understanding not only how something
-works, but also where it can be useful.
-
-## Background ⚡
-
-My professional background started in the electrical field before I
-moved deeper into computer science and software.
-
-``` text
 Electrical
-   ↓
+↓
 Computer Science
-   ↓
+↓
 Programming & Software
-   ↓
+↓
 Systems, Networking & Technology
-```
 
-I don't see this as starting over.
+My background started in the electrical field, and I am now expanding that experience into computer science and software.
 
-I'm adding another skill set to what I already know.
+I don't see it as starting over. I'm adding another skill set to what I already know.
 
-## Beyond code 🔍
-
-I'm curious about computers, software, networking, Linux, automation and
-business.
-
-I like understanding how things work underneath, experimenting with them
-and eventually turning that knowledge into something practical.
-
-> Build things. Understand them. Make them useful.
+Build things. Understand them. Make them useful. 🚀
