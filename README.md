@@ -85,24 +85,13 @@ understanding into something useful.
 
 Founder & Owner
 
-MatchX Studio was started as a partnership in 2018 and has grown into a
-technology and creative-oriented business.
-
-The work includes coding, bots, automation, APIs, bot buying and
-selling, editing and other technology-related services and projects.
-
-It has been one of the places where I've been able to combine technical
-work with practical, real-world use cases.
+MatchX Studio was started as a partnership in 2018 
 
 ### XNPL Export
 
 Founder & Owner
 
-XNPL Export is an import and export business focused on fruits,
-vegetables and other agricultural products.
-
-The business is currently not available online and operates separately
-from my technology work.
+XNPL Export 
 
 Working on both technology and business has given me a different
 perspective on building things --- understanding not only how something
