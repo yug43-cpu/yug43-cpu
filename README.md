@@ -80,18 +80,10 @@ I enjoy exploring how things work underneath and turning that
 understanding into something useful.
 
 ## Business 💼
-
-### MatchX Studio
-
 Founder & Owner
 
-MatchX Studio was started as a partnership in 2018 
+### MatchX Studio , XNPL Export
 
-### XNPL Export
-
-Founder & Owner
-
-XNPL Export 
 
 Working on both technology and business has given me a different
 perspective on building things --- understanding not only how something
