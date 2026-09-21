@@ -18,10 +18,10 @@ exploring different areas of software and technology.
 
 -   C →
 -   C++ → [LEARNING](https://github.com/yug43-cpu/cpp-learning)
--   Python →[LEARNING](https://github.com/yug43-cpu/python-learning)
--   Java →
--   R →
--   Ruby →
+-   Python → [LEARNING](https://github.com/yug43-cpu/python-learning)
+-   Java → 
+-   R → 
+-   Ruby → 
 
 ### Computer science 🧠
 
