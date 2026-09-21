@@ -17,7 +17,7 @@ exploring different areas of software and technology.
 ### Programming 💻 
 
 -   C →
--   C++ → [ripo](https://github.com/yug43-cpu/cpp-learning)
+-   C++ → [LEARNING] (https://github.com/yug43-cpu/cpp-learning)
 -   Python →
 -   Java →
 -   R →
