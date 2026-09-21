@@ -16,8 +16,8 @@ exploring different areas of software and technology.
 
 ### Programming 💻 cpp-learning
 
--   **C** (./01_Daily_Tracker)
--   **C++** (./cpp-learning)
+-   **C** **01** — [Daily Tracker](./01_Daily_Tracker)
+-   **C++** [c++](./cpp-learning)
 -   Python
 -   Java
 -   R
