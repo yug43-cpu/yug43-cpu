@@ -16,7 +16,7 @@ exploring different areas of software and technology.
 
 ### Programming 💻
 
--   C
+-   C/cpp-learning
 -   C++
 -   Python
 -   Java
