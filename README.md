@@ -14,14 +14,14 @@ learn on GitHub.
 I'm working on building a strong foundation in computer science while
 exploring different areas of software and technology.
 
-### Programming 💻 cpp-learning
+### Programming 💻 
 
--   **C** **01** — [Daily Tracker](./01_Daily_Tracker)
--   **C++** [c++](./cpp-learning)
--   Python
--   Java
--   R
--   Ruby
+-   C →
+-   C++ → [ripo](https://github.com/yug43-cpu/cpp-learning)
+-   Python →
+-   Java →
+-   R →
+-   Ruby →
 
 ### Computer science 🧠
 
