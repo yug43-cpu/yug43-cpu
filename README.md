@@ -41,7 +41,7 @@ exploring different areas of software and technology.
 
 ### Projects 📁
 
-- [Pc Monitor](https://github.com/yug43-cpu/PC-Telegram-Monitor)
+- [Pc Monitoring](https://github.com/yug43-cpu/PC-Telegram-Monitor)
 - [Win password bypass](https://github.com/yug43-cpu/win_password_bypass)
 - [Microsoft Office Activate](https://github.com/yug43-cpu/Windows_and_Microsoft-Activation-Scripts)
 - [Group Projects](https://github.com/yug43-cpu/group-projects)
