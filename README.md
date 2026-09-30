@@ -42,8 +42,8 @@ exploring different areas of software and technology.
 ### Projects 📁
 
 - [Pc Monitoring](https://github.com/yug43-cpu/PC-Telegram-Monitor)
-- [Win password bypass](https://github.com/yug43-cpu/win_password_bypass)
-- [Microsoft Office Activate](https://github.com/yug43-cpu/Windows_and_Microsoft-Activation-Scripts)
+- [Win Lock screen password bypass](https://github.com/yug43-cpu/win_password_bypass)
+- [Microsoft Office Activater](https://github.com/yug43-cpu/Windows_and_Microsoft-Activation-Scripts)
 - [Group Projects](https://github.com/yug43-cpu/group-projects)
 
 I already have a basic understanding of networking and have worked with
