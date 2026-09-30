@@ -39,6 +39,13 @@ exploring different areas of software and technology.
 -   Computer Networking
 -   Linux
 
+### Projects 📁
+
+- [Pc Monitor](https://github.com/yug43-cpu/PC-Telegram-Monitor)
+- [Win password bypass](https://github.com/yug43-cpu/win_password_bypass)
+- [Microsoft Office Activate](https://github.com/yug43-cpu/Windows_and_Microsoft-Activation-Scripts)
+- [Group Projects](https://github.com/yug43-cpu/group-projects)
+
 I already have a basic understanding of networking and have worked with
 Linux as well. Linux is one of the areas I particularly enjoy exploring,
 while Windows is currently my main environment for everyday coding.
